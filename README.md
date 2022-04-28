@@ -7,14 +7,18 @@ My name is **Jhonthan Saavedra** 👋
 A Junior Web Developer 👨‍💻
 
 ```javascript
-    techStack: {
-      frontEnd: ["HTML", "CSS", "Javascript", "Jquery","Bootstrap"],
-      backend: ["PHP"],
-      databases: ["MySql"],
-      versionControl: ["Git"]
-    },
-    tools: ["VsCode", "Photoshop", "Xubuntu", "Visual Studio Code"],
-    role: ["Junior Frontend Developer", "Junior Developer"]
+  
+  const moreAboutMe = {
+  
+      techStack: {
+          frontEnd: ["HTML", "CSS", "Javascript", "Jquery","Bootstrap"],
+          backend: ["PHP"],
+          databases: ["MySql"],
+          versionControl: ["Git"]
+        },
+        tools: ["VsCode", "Photoshop", "Debian", "Notepad ++"],
+        role: ["Junior Frontend Developer", "Junior Developer"],
+        nextGoal: "Go to university 🤩"
   }
 ```
 
